@@ -1,2 +1,3 @@
 连猴子都懂的Git命令 可是我不懂!
 金星彤是个猪
+git tracks changes
